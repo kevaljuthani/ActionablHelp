@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.actionabl.ai/sitemap.xml.gz
+Sitemap: https://kevaljuthani.github.io/actionablHelp.github.io/sitemap.xml.gz
